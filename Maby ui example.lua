@@ -3,7 +3,7 @@
 ]]
 
 -- Load the UI Library
-local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/yourusername/UILibrary/main/UILibrary.lua"))()
+local UILibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/fluxScript82/Maby-ui-Library-By-Maby/refs/heads/main/Maby%20ui%20source.lua"))()
 
 -- Create a new UI instance
 local UI = UILibrary.new("My UI Library")
